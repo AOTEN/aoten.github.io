@@ -20,4 +20,5 @@ gems:
 # Build settings
 markdown: kramdown
 destination: www
+exclude: [ 'CNAME' ]
 
